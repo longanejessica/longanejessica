@@ -85,7 +85,7 @@ I specialize in **Web & Network Pentesting**, and I love breaking things to lear
 - 💻 Labs with Kali, Ubuntu & Windows Server
 - 🔭 Network simulations with GNS3 & Packet Tracer
 - 📚 Platforms: TryHackMe, HackTheBox, ZTM
-- 🎯 Goal: earn the **OSCP** and work as a freelance pentester
+- 🎯 Goal: Becoming one of the best pentester in the world
 
 ---
 
