@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/longanejessica/longanejessica/main/chemin/vers/banner.png" alt="Jessica Longane - Building & Breaking Things" />
+  <img src="https://raw.githubusercontent.com/longanejessica/longanejessica/main/banner.png" alt="Jessica Longane - Building & Breaking Things" />
 </p>
 
 <!-- Badges -->
