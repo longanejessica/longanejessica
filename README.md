@@ -1,8 +1,3 @@
-<!-- Bannière -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/longanejessica/longanejessica/main/banner.png" alt="Jessica Longane - Building & Breaking Things" />
-</p>
-
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JessicaLongane&style=flat-square" alt="Profile Views" />
