@@ -64,7 +64,7 @@ Aujourd’hui, je me spécialise dans le **pentesting**, avec une passion pour l
 
 - [LinkedIn](https://be.linkedin.com/in/jessica-longane-391905212)
 - [TryHackMe](https://tryhackme.com/) — *@jessicabacha7*
-- ✉️ longane_jessica [at] outlook.com
+- ✉️ longane_jessica@outlook.com
 
 ---
 
@@ -116,4 +116,4 @@ I specialize in **Web & Network Pentesting**, and I love breaking things to lear
 
 - [LinkedIn](https://be.linkedin.com/in/jessica-longane-391905212)
 - [TryHackMe](https://tryhackme.com/) — *@jessicabacha7*
-- ✉️ longane_jessica [at] outlook.com
+- ✉️ longane_jessica@outlook.com
