@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Pentesting%20Enthusiast-%F0%9F%92%BB-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSCP%20In%20Progress-🔥-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Self--Taught%20Learner-%F0%9F%93%9A-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certified%20K%20En%20Une%20Progress-%E2%9C%94%EF%B8%8F-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
