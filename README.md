@@ -1,8 +1,8 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JessicaLongane&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JessicaLongane?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/JessicaLongane?label=Stars&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/longanejessica?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/longanejessica?label=Stars&style=flat-square" />
   <img src="https://img.shields.io/badge/Pentesting%20Enthusiast-💻-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/OSCP%20In%20Progress-🔥-red?style=flat-square" />
 </p>
