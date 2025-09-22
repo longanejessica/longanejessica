@@ -1,10 +1,10 @@
-<!-- 🌟 Clean and Colorful Badges -->
-<p align="center">
+<!-- Badges -->
+<p align="center" style="display: flex; flex-wrap: nowrap; gap: 5px;">
   <img src="https://komarev.com/ghpvc/?username=JessicaLongane&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/longanejessica?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/Pentesting%20Enthusiast-%F0%9F%92%BB-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSCP%20In%20Progress-🔥-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Self--Taught%20Learner-%F0%9F%93%9A-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Self--Taught%20Learner-📚-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
