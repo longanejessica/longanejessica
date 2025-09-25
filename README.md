@@ -1,4 +1,4 @@
-<!-- Badges -->
+<!-- Clean Badges -->
 <p align="center" style="display: flex; flex-wrap: nowrap; gap: 5px;">
   <img src="https://komarev.com/ghpvc/?username=JessicaLongane&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/longanejessica?label=Followers&style=for-the-badge&color=blue" />
@@ -31,7 +31,7 @@ Aujourd’hui, je me spécialise dans le **pentesting**, avec une passion pour l
 - 💻 VMs avec Kali Linux, Ubuntu, Windows Server
 - 🔭 Topologies réseau avec GNS3 & Packet Tracer
 - 📚 Plateformes : TryHackMe, HackTheBox, ZTM
-- 🎯 Objectif : Devenir l'une des meilleures pentesteuses du monde 
+- 🎯 Objectif : Devenir Experte 
 
 ---
 
