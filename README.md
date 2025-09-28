@@ -39,14 +39,14 @@ Aujourd’hui, je me spécialise dans le **pentesting**, avec une passion pour l
 
 | Projet | Description | Outils |
 |--------|-------------|--------|
-| `[Port Scanner]` (https://github.com/longanejessica/Portscanner-Python) | Script Python pour scanner les ports ouverts d’une cible IP | Python, socket, nmap |
-| `Évaluation trafic réseau` | Script Bash pour analyser le trafic réseau sur une interface | Bash, iftop, tcpdump |
+| <a href=https://github.com/longanejessica/Portscanner-Python> `Port Scanner`</a> | Script Python pour scanner les ports ouverts d’une cible IP | Python, socket, nmap |
+| <a href=https://github.com/longanejessica/linux>`Évaluation trafic réseau` | Script Bash pour analyser le trafic réseau sur une interface | Bash, iftop, tcpdump |
 | `AD Lab` | Environnement Active Directory complet | Windows Server, GPO, Sysmon |
-| `DMZ Lab` | VLANs + DNS/DHCP/RADIUS/iSCSI | GNS3, Ubuntu |
-| `XSS Demo` | Phishing via XSS + capture via webhook | HTML, JS |
+| <a href=https://github.com/longanejessica/secure-network-design> `Network Lab` | VLANs + DNS/DHCP/RADIUS/iSCSI | GNS3, Packet Tracer |
+| <a href=https://github.com/longanejessica/reflected-XSS-demo>`XSS Demo` | Phishing via XSS + capture via webhook | HTML, JS |
 | `IDS Lab` | Détection d’attaques avec Snort/Suricata | IDS/Logs |
-| `OSINT Case` | Investigation open-source | Shodan, TheHarvester |
-| `Cracking avec PassGAN + OSINT` | Expérience de craquage de mots de passe avec PassGAN et enrichissement par OSINT | PassGAN, Hashcat, theHarvester, SecLists |
+| <a href=https://github.com/longanejessica/pent-project>`OSINT Case` | Investigation open-source | Shodan, TheHarvester |
+| <a href=https://github.com/longanejessica/pent-project>`Cracking avec PassGAN + OSINT` | Expérience de craquage de mots de passe avec PassGAN et enrichissement par OSINT | PassGAN, Hashcat, theHarvester, SecLists |
 
 ---
 
@@ -91,14 +91,14 @@ I specialize in **Web & Network Pentesting**, and I love breaking things to lear
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| `Port Scanner` | Python script to scan open ports on a target IP | Python, socket, nmap |
-| `Traffic Monitor` | Bash script to evaluate live network traffic | Bash, iftop, tcpdump |
+| <a href=https://github.com/longanejessica/Portscanner-Python> `Port Scanner`</a> | Python script to scan open ports on a target IP | Python, socket, nmap |
+| <a href=https://github.com/longanejessica/linux>`Traffic Monitor`</a> | Bash script to evaluate live network traffic | Bash, iftop, tcpdump |
 | `AD Lab` | Active Directory environment with GPOs | Windows Server, Sysmon |
-| `DMZ Network` | DNS, DHCP, iSCSI, VLANs, RADIUS | GNS3, Ubuntu Server |
-| `XSS Phishing` | XSS attack demo + fake login capture | HTML, JS, Webhook.site |
+| <a href=https://github.com/longanejessica/secure-network-design> `Network Lab` | DNS, DHCP, iSCSI, VLANs, RADIUS | GNS3, Ubuntu Server |
+|  <a href=https://github.com/longanejessica/reflected-XSS-demo>`XSS Demo` | XSS attack demo + fake login capture | HTML, JS, Webhook.site |
 | `IDS Lab` | Test attacks vs Snort & Suricata | IDS & log analysis |
-| `OSINT Hunt` | Real-world open-source investigation | Shodan, Dorking, TheHarvester |
-| `PassGAN + OSINT Cracking Lab` | Password cracking experiment using PassGAN and OSINT-enriched wordlists | PassGAN, Hashcat, theHarvester, SecLists |
+| <a href=https://github.com/longanejessica/pent-project>`OSINT Hunt`| Real-world open-source investigation | Shodan, Dorking, TheHarvester |
+| <a href=https://github.com/longanejessica/pent-project>`PassGAN + OSINT Cracking Lab` | Password cracking experiment using PassGAN and OSINT-enriched wordlists | PassGAN, Hashcat, theHarvester, SecLists |
 
 ---
 
