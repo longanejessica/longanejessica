@@ -39,7 +39,7 @@ Aujourd’hui, je me spécialise dans le **pentesting**, avec une passion pour l
 
 | Projet | Description | Outils |
 |--------|-------------|--------|
-| `Port Scanner` | Script Python pour scanner les ports ouverts d’une cible IP | Python, socket, nmap |
+| `Port Scanner` (https://github.com/longanejessica/Portscanner-Python) | Script Python pour scanner les ports ouverts d’une cible IP | Python, socket, nmap |
 | `Évaluation trafic réseau` | Script Bash pour analyser le trafic réseau sur une interface | Bash, iftop, tcpdump |
 | `AD Lab` | Environnement Active Directory complet | Windows Server, GPO, Sysmon |
 | `DMZ Lab` | VLANs + DNS/DHCP/RADIUS/iSCSI | GNS3, Ubuntu |
