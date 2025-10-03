@@ -47,7 +47,7 @@ Aujourd’hui, je me spécialise dans le **pentesting**, avec une passion pour l
 | `IDS Lab` | Détection d’attaques avec Snort/Suricata | IDS/Logs |
 | <a href=https://github.com/longanejessica/pent-project>`OSINT Case` | Investigation open-source | Shodan, TheHarvester |
 | <a href=https://github.com/longanejessica/pent-project>`Cracking avec PassGAN + OSINT` | Expérience de craquage de mots de passe avec PassGAN et enrichissement par OSINT | PassGAN, Hashcat, theHarvester, SecLists |
-| <a href=https://github.com/longanejessica/LFI-SQLI-SSRF>`LFI Lab` | Inclusion de fichier local vulnérable (LFI) avec environnement PHP sous Kali Linux | Apache2, PHP, LFI |
+| <a href=https://github.com/longanejessica/LFI-SQLI-SSRF>`Web Hacking Lab` | Inclusion de fichier local vulnérable (LFI) avec environnement PHP sous Kali Linux | Apache2, PHP, LFI |
 
 ---
 
@@ -100,7 +100,7 @@ I specialize in **Web & Network Pentesting**, and I love breaking things to lear
 | `IDS Lab` | Test attacks vs Snort & Suricata | IDS & log analysis |
 | <a href=https://github.com/longanejessica/pent-project>`OSINT Hunt`| Real-world open-source investigation | Shodan, Dorking, TheHarvester |
 | <a href=https://github.com/longanejessica/pent-project>`PassGAN + OSINT Cracking Lab` | Password cracking experiment using PassGAN and OSINT-enriched wordlists | PassGAN, Hashcat, theHarvester, SecLists |
-| <a href=https://github.com/longanejessica/LFI-SQLI-SSRF>`LFI Lab` | Local File Inclusion vulnerability lab with PHP on Kali Linux | Apache2, PHP, LFI |
+| <a href=https://github.com/longanejessica/LFI-SQLI-SSRF>`Web Hacking Lab` | Local File Inclusion vulnerability lab with PHP on Kali Linux | Apache2, PHP, LFI |
 
 ---
 
